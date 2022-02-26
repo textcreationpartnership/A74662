@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five matters of note. As first, a continuation of the weekely occurrences in the high court of Parliament, from the 16. of May to the 23. more fully then before printed. 2. His Majesties resolution concerning Yorkshire; together with many other occurrences concerning his royall Majesty, and the high Sheriffe of that county. 3. Sir John Hothams learned speech; wherein is manifested the manifold reasons why the subject, being commanded by the Parliament, ought not to disobey. With a remarkable passage concerding [sic] the Lord Littleton, Lord Keeper of the great Seale of England, and many other persons of note. As also other occurrences upon Saturday, May 21. An order from the high court of Parliament, dated the 20. of May. John Brown, Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74662</idno>
+            <idno type="STC">Thomason E148_27</idno>
+            <idno type="STC">ESTC R11026</idno>
+            <idno type="EEBO-CITATION">99858925</idno>
+            <idno type="PROQUEST">99858925</idno>
+            <idno type="VID">110985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110985)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E148[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five matters of note. As first, a continuation of the weekely occurrences in the high court of Parliament, from the 16. of May to the 23. more fully then before printed. 2. His Majesties resolution concerning Yorkshire; together with many other occurrences concerning his royall Majesty, and the high Sheriffe of that county. 3. Sir John Hothams learned speech; wherein is manifested the manifold reasons why the subject, being commanded by the Parliament, ought not to disobey. With a remarkable passage concerding [sic] the Lord Littleton, Lord Keeper of the great Seale of England, and many other persons of note. As also other occurrences upon Saturday, May 21. An order from the high court of Parliament, dated the 20. of May. John Brown, Cler. Parl.</title>
+                  <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+                  <author>Sanders, Edward, 17th cent.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, I T,</publisher>
+                  <pubPlace>Loneon [i.e. London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Littleton, Edward Littleton, --  Lord, 1589-1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110985:1" rendition="simple:additions"/>
+            <p>FIVE MATTERS OF NOTE.</p>
+            <p>
+               <hi>AS FIRST,</hi> A continuation of the weekely Occurrences in the high Court of <hi>Parliament,</hi> from the 16. of <hi>May</hi> to the 23. more fully then before Printed.</p>
+            <p>2. His Majeſties reſolution concerning <hi>Yorkſhire;</hi> Together with many other Occurrences concerning his royall Majeſty, and the high Sheriffe of that County.</p>
+            <p>3. Sir JOHN HOTHAMS learned Speech; wherein is manifeſted the manifold Reaſons why the Subject, being commanded by the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> ought not to diſobey.</p>
+            <p>
+               <hi>With a remarkable paſſage concerding the Lord</hi> Littleton, <hi>Lord Keeper of the great Seale of</hi> England, <hi>and many other per<g ref="char:EOLhyphen"/>ſons of note.</hi>
+            </p>
+            <p>As alſo other occurrences upon Saturday, <hi>May</hi> 21.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_order">
+                        <p>An Order from the high Court of Parliament, dated the 20. of <hi>May.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Brown, Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Loneon printed, IT 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:110985:2"/>
+            <head>Occurrences in the high Court of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> from the 16. of <hi>May</hi> to the 23. 1642.</head>
+            <p>MOnday the 16. of May in the morning a Committee of both Houſes met about the drawing up of the <hi>Remonstrance,</hi> for the Uindication of the <hi>Parliament</hi> touching diſpoſall of the Mili<g ref="char:EOLhyphen"/>tia, but they determined not thereof.</p>
+            <p>Upon the meeting of the Lords Houſe there was a Petition de<g ref="char:EOLhyphen"/>livered unto them by the Ear of <hi>Eſſex</hi> from the County of <hi>Staf<g ref="char:EOLhyphen"/>ford</hi> (in effect to that preſented to the Houſe of Commons on Sa<g ref="char:EOLhyphen"/>turday before) as giving them thanks for their great care of the Re<g ref="char:EOLhyphen"/>publique and in ordaining of the Militias and praying their ſtil co<g ref="char:EOLhyphen"/>reſpondency, and happy continuation with the Houſe of Com<g ref="char:EOLhyphen"/>mons, in what conduced to the common good: which being red, and gratefully accepted, thanks was returned for their fidelity to the State and Parliament.</p>
+            <p>On the 18 day the Earl of <hi>Stamford,</hi> one of the Committees ſent to <hi>Hull,</hi> being returned, gave an account of his ſaid ſervice; <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the ſhipping of part of the Magazine at <hi>Hull</hi> which contrary winds kept from coming about; acquainting the Houſe further of the fears in thoſe parts of his Majeſties intention to raiſe Armes againſt the Parliament. And alſo for the ſafe keeping of <hi>Hull.</hi> Sir <hi>John Ho<g ref="char:EOLhyphen"/>tham</hi> deſired that ſome ſhips might be ſent to lye in the river and that the Gariſon might be enlarged; which the Houſe being ac<g ref="char:EOLhyphen"/>quainted by Meſſage, there was a conference concerning it, where many things were propounded as convenient to be done, but no<g ref="char:EOLhyphen"/>thing fully determined of.</p>
+            <p>And they then likewiſe Ordered, that notice ſhould be given to the Sheriffe of <hi>Yorkſhire,</hi> and other Northerne Counties that if any roſe in a warlike manner, under pretence of taking part with his Majeſty againſt the Parliament; that they ſhould raiſe the trained Bands of thoſe reſpective ſhires to ſuppreſſe them.</p>
+            <p>Then the Houſes received Information from <hi>Yorke,</hi> that thoſe Noblemen ſent for to attend the Houſe, that went thither without
+<pb facs="tcp:110985:2"/>the Houſes conſent, My Lord <hi>Savell,</hi> Lord <hi>Seymer,</hi> Lord <hi>Rich,</hi> &amp;c. had denied to come, ſaying they were bound by the <hi>Oath of Allegiance</hi> to attend his Majeſty. The conſideration whereof took each Houſe ſome time in debate.</p>
+            <p>Thurſday morning upon the compleating of both Houſes each Houſe tooke into conſideration both the Meſſages from the Committees re<g ref="char:EOLhyphen"/>ſident at <hi>Yorke,</hi> and having ſeverally ſome while debated thereon, for the ſecurity of the Kingdom, and preventing of ſucceeding Evils <hi>(if not timely remedy were taken)</hi> upon a Meſſage there was a Conference, whereat theſe joynt notes were concluded of, that touching the Ma<g ref="char:EOLhyphen"/>gazine of each reſpective ſhire in the Kingdom of <hi>England</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> it ſhould be put into the cuſtody of the <hi>Lievtenants</hi> and <hi>Deputy Lievtenants</hi> of each County nominated by the Parliament for the more ſecurity.</p>
+            <div type="part">
+               <opener>
+                  <date>
+                     <hi>Sabbati</hi> 18. <hi>Maii.</hi> 1642.</date>
+               </opener>
+               <p>Lords Committees appointed by the Houſe to joyn with a propor<g ref="char:EOLhyphen"/>tionable number of the Houſe of Commons, to conſider of a Declara<g ref="char:EOLhyphen"/>on or Meſſage ſent to both Houſes from his Majeſty touching <hi>Hull, viz. L. Admirall. E. Pembrooke. E. Eſſex. E. Leiceſter. E. Holland. Vic. Say &amp; Seal. L. Paget. L. North. L. Spencer. L. Kimbol<g ref="char:EOLhyphen"/>ton. L. Brooke. L. Roberts.</hi>
+               </p>
+               <p>
+                  <hi>Their Lordſhips or any five are to meet with a proportionable number of the Houſe of Commons in the Painted Chamber.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>ON Friday laſt; the Lords fell into conſideration of the malignant party of the Kingdome, and of his Majeſties intention to raiſe Arms againſt his Parliament. And having ſome while debated there<g ref="char:EOLhyphen"/>on they at laſt unanimouſly Uoted,</p>
+               <list>
+                  <item>1. <hi>That it appears the King intends to levie war againſt the Parliament</hi>
+                  </item>
+                  <item>2. <hi>That whenſoever the King maketh war upon the Parliament, it is the breach of the truſt repoſed upon him by the People, and againſt his Oath, and tendeth to the deſolation of his Government.</hi>
+                  </item>
+                  <item>3. <hi>That whoſoever ſhall ſerve or aſſiſt the King in ſuch War, are Traitors, and to be proceeded againſt as Traitors, according to a Statutes of</hi> 11. Rich. 2, <hi>and</hi> 1. Hen. 4.</item>
+               </list>
+               <closer>
+                  <signed>Hen. Elſing. Cler. Parl. de Com.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="resolution">
+            <pb facs="tcp:110985:3"/>
+            <head>The KINGS Majeſties Reſolution concerning <hi>Yorkſhire.</hi>
+            </head>
+            <opener>
+               <salute>Loving friend,</salute>
+            </opener>
+            <p>AFter my hearty Commendations remembred unto you, and to your wife, I thought it neceſſary to ſend you theſe Occurrences, writing them with a ſad and heavy heart, by reaſon that there is ſuch a great diſſention here, in this our County; there is no talke now in theſe parts but Wars, as we are very fearfull that they will enſue very ſodainly; for there is great preparations in this City, and we dare not ſay to the contrary: His royall Majeſty is reſolved to ſtay there as yet, and doth aſſure us that there ſhall be nothing done contrary to the wil of this Kingdome,</p>
+            <p>The great and manifold dangers which are like to enſue (curteous and judicious Reader) are many for theſe two or three yeers; but I paſſe them: they have been a hatching, and are now-almoſt dome to a full ripeneſſe, as may appeare by this enſuing Relation.</p>
+            <p>Upon this preſent moneth of May, there hath been many fears and jealouſies entring into the hearts of true harted Proteſtants in the Nor<g ref="char:EOLhyphen"/>therne parts of <hi>Englands,</hi> and eſpecially in the County of <hi>Yorkſhire,</hi> and they are now fully entred more is the pity, we may all ſay, for they had ſome hopes that. His Majeſty and the honourable high Court of Parliament, would by degrees have aſſented one with the other, and have all joynd with one conſtancy of minde for the future and publique good of this Kingdome, but now in the concluſion, they are far further off then they were at the beginning, and their intentions are more apparantly known to the World: for it is abſolutely thought that a Civill War will ſo <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainly enſue, unleſſe God of his great mercy ſtir the intentions of many.</p>
+            <p>There were many aſſembled together in a warlike manner in the County of <hi>Yorkſhire,</hi> but to what intent is not yet known; but at laſt each man departed to his owne home; yet this is for certain that there is great preparations for war made in this County, and divers other adjoyning Counties, but to what intent is not yet known; it ſtrikes terrour to the hearts of all true Proteſtants, and maketh a great provi<g ref="char:EOLhyphen"/>ſion in this County, ſome of the Malignant party ſaying, that the world will never be good til there be ſome blood of the Puritan ſhed, but the Lord of his mercy ſend us a ſodain prevention, that the blood<g ref="char:EOLhyphen"/>thirſty Papiſts may loſe and miſſe of their intended purpoſes.</p>
+            <pb facs="tcp:110985:3"/>
+            <p> There is in this County a great number of Papiſts, and likewiſe in many other Counties adjoyning to this, and it is thought that they are well provided and furniſhed with great ſtore of Ammunition for war, whoſe Deſigne is to bring a civill War upon the face of this whole Kingdome; that while we are in diſſentions among our ſelves, a For<g ref="char:EOLhyphen"/>raigne Enemy may have the more advanrage to worke their damna<g ref="char:EOLhyphen"/>ble and miſchievous deſignes.</p>
+            <p>There was upon the two and twentieth day of this Moneth, many that went to his Majeſty, ſaying, They would lay down their lives for the ſafety of his Majeſty: it is generally thought there will be ſodain<g ref="char:EOLhyphen"/>ly Wars in this County of <hi>York</hi> and all other places thereabouts: ſo I reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your loving friend</hi> Edward Saunders.</signed>
+               <dateline>From <hi>York.</hi> 
+                  <date>
+                     <hi>May</hi> the 22. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="proceedings">
+            <head>Another paſſage of Note that happened in the County of <hi>York</hi> between the high Sheriffe of the ſaid County, and certain men aſſembled in Armes.</head>
+            <p>THE high Sheriffe of <hi>Yorkſhire</hi> having Order and command from both houſes of Parliament, to ſuppreſſe all thoſe that appeared in a warlike manner in thoſe parts; and having intelligence that there were ſome that had put themſelves into a poſture of War he comman<g ref="char:EOLhyphen"/>ded ſome certain perſons to make towards them with all ſpeed to cer<g ref="char:EOLhyphen"/>tifie the Command he had from both houſes of Parliament, to ſup<g ref="char:EOLhyphen"/>preſſe all thoſe that appeared in a warlike manner: they having heard what the Meſſengers had ſaid immediately departed from them, and every man withdrew himſelfe to his owne home.</p>
+            <div type="part">
+               <head>An Information received from <hi>York</hi> the twenty two of <hi>May, 1642.</hi>
+               </head>
+               <p>VPon the ninteenth day of this preſent moneth, 1642. the honou<g ref="char:EOLhyphen"/>rable Houſes received Information from <hi>York,</hi> that thoſe Noble men ſent for to attend the Houſe that went thither without the Hou<g ref="char:EOLhyphen"/>ſes conſent my Lord <hi>Savell,</hi> my Lord <hi>Seymer,</hi> and my Lord. <hi>Rich, &amp;c.</hi> had denied to come; ſaying, that they were bound by the Oath of Allegiance to ſerve his Majeſty.</p>
+            </div>
+         </div>
+         <div type="proceedings">
+            <pb facs="tcp:110985:4"/>
+            <head>A learned Speech made by that much ho<g ref="char:EOLhyphen"/>nored and renowned Gentleman, Sir <hi>John Hotham,</hi> a member of the honorable Houſe of COMMONS.</head>
+            <p>ON the 23. day of this inſtant moneth, Sir <hi>John Hotham</hi> ſummo<g ref="char:EOLhyphen"/>ned ſome particular Knights and Gentlemen to <hi>Hull,</hi> to adviſe with him concerning the preſent eſtate of the Towne in regard his Majeſty was ſo highly incenſed againſt him; likewiſe the Major, Alder<g ref="char:EOLhyphen"/>men, and all other men of good ranke and quality were at that time aſſembled to whom Sir <hi>John Hotham</hi> (after an affable ſalutation to all) began to addreſſe himſelfe to ſpeake, which being obſerved, a ge<g ref="char:EOLhyphen"/>neral ſilence covered all the place, each man with attentive admirati<g ref="char:EOLhyphen"/>on catcht every ſyllable as ſoon as it uttered, fearing the aire delight with that Candor ſhould ſnatch them up, and rob them of their onely happineſſe; ſince twas a comfort to all loyall Subjects to heare and learne their duties from him that had given an ample teſtimony, how well he knew his owne.</p>
+            <div type="speech">
+               <head>The ſubſtance of his Oration, as neere as could be gathered, is ſet downe in this enſuing Treatiſe.</head>
+               <opener>
+                  <salute>My loving Friends,</salute>
+               </opener>
+               <p>YOV may perhaps expect that I intend to make a large Narrati<g ref="char:EOLhyphen"/>on with intent to clear your doubts and make my Actions to His Majeſty ſeem (as they are) faire, Legall and Loyall.</p>
+               <p>But it is not my intention, nor will I waſte ſo much time in that buſineſſe, but leave it to the end, not doubting but when my Actions ſhall define their wiſhed event, that the end ſhall crowne the bad that is paſt with a more full renowne. The Scope of my words at this time ſhall be confined to theſe two heads, which indeed are twins, not to be ſeperated.</p>
+               <p>The firſt is an encouragement to gaine perfect honour from your Soveraigne.</p>
+               <p>Let Loyalty be the rule of all your actions, if you intend to be tru<g ref="char:EOLhyphen"/>ly honourable; for honour not grounded on loyalty, is like friendſhip without love, loſt in a moment, and oft times growes the greateſt E<g ref="char:EOLhyphen"/>nemy; to the greateſt Title, the vaſteſt Wealth the greateſt Wiſdom,
+<pb facs="tcp:110985:4"/>if not guided by Vertue, and ſo imployed proves ruine to the injoyer. Next, let your Loyalty take its limit from Law; otherwiſe, in doing things ſeemingly good the end may prove dangerous and your loyalty prove worſe them diſloyalty. Therefore the next thing that I inſiſt up<g ref="char:EOLhyphen"/>on is Obedience to the Parliament, that pious and judicious Coun<g ref="char:EOLhyphen"/>cell, whom you in particular, and all the Kingdome in generall, have choſen as fit men to diſcuſſe and examine all cauſes that have depen<g ref="char:EOLhyphen"/>dency on his Majeſties ſafety, and the Kingdomes ſecurity. Now to diſallow of what is by them thought convenient both for his Majeſty and the Kingdomes ſecurity, is to condemne your ſelves of folly, that you have choſen men in whom you cannot confide, but I preſume (though there be many that theſe words may and doe concerne in this Kingdome) that there is no one here that would not lay downe his life for the defence of his Majeſty and the Parliament; neither are there any, I ſuppoſe, that need this motive to Obedience to the hono<g ref="char:EOLhyphen"/>rable Houſes of Parliament their owne ſafeties depending on the hap<g ref="char:EOLhyphen"/>py iſſue of their religious Councels.</p>
+               <p>Onely my aime is, to give you one generall reaſon and apparent te<g ref="char:EOLhyphen"/>ſtimony, why the Subject being commanded by the Parliament, ought not to diſobey their Commands, though by the King commanded the contrary. Becauſe the Parliament being called and eſtabliſhed by the authority of the King and conſent of the Kingdom, has power to com<g ref="char:EOLhyphen"/>mand and effect all things that are agreeable to Law, tending to the preſervation of his Majeſties peace and welfare, and the generall good of the Subject; they being by King and People, in truſted with that waighty and great charge; and if they ſhould ſore-ſee an imminent danger threaten his Majeſties Perſon, or the generall good and ſhould not take ſpeedy care to prevent it, they ſhould make a violation of that Faith and Truſt repoſed in them: ſo on the contrary part, if they foreſeeing a danger, by their Councels and Commands endevour to prevent it; and the Perſons by them commanded falſifie their truſt; they are traytors both to their royall Soveraigne and deſtroyers of the Kingdome. This is the truth and this is my glory, that God has ſo far enabled me to undergoe ſo great a taske; and this is my hope that all of you will manifeſt your loyalties to his Majeſty, and obedience to the Parliament.</p>
+               <p>Many other matters I have to tell you concerning an Information of the Lord Keepers having left the Parliament.</p>
+            </div>
+         </div>
+         <div type="proceedings">
+            <pb facs="tcp:110985:5"/>
+            <head>
+               <hi>Other occurrences upon Saturday,</hi> May 21. 1642.</head>
+            <p>Saturday, there was a conference of both Houſes; the Lords moved that the Commons would joyne with them in requiring reparations for a great breach of their priviledges; which was, that the Lords hav<g ref="char:EOLhyphen"/>ing ſent Meſſengers to <hi>Yorke,</hi> to require the attendance of ſome of their Members at their owne Houſe, the Meſſengers were impriſo<g ref="char:EOLhyphen"/>ned at <hi>Yorke.</hi> Whereupon there was a Committee of both Houſes to inquire thereof.</p>
+            <p>After this, the Lords by a Meſſage ſent certaine notes to the Com<g ref="char:EOLhyphen"/>mons, which they had agreed upon in their Houſe, concerning the Kings late proceedings at <hi>Hull</hi> and <hi>Yorke,</hi> deſiring the Commons would joyn with them in the notes, which were red then in the Com<g ref="char:EOLhyphen"/>mons Houſe: the effect whereof was.</p>
+            <p>That it doth appeare to the Parliament, that the King being ſedu<g ref="char:EOLhyphen"/>ced by wicked Councellours, doth intend to make warre againſt the Parliament; who in all their conſultations have propounded nothing but for the good of the Kingdome, and ſafety of his perſon.</p>
+            <p>That when the King maketh war againſt the Parliament, it is a breach of the truſt committed to him, and tendeth to the diſſolution of this government. That whoſoever ſhall aſſiſt his Majeſty in the war are traitors, and have bin ſo adjudged by two Acts of Parliament; and are to ſuffer as traitors by the fundamentall Lawes of the Land.</p>
+            <p>With their notes, the Lords ſent a Petition, which they had drawn up to his Majeſty; declaring the grounds and reaſons of their procee<g ref="char:EOLhyphen"/>ding upon thoſe notes, and to diſſwade his Majeſty from his intended purpoſe of raiſing the trained Bands of the County.</p>
+            <p>After the reading of which Petition and notes there was a long de<g ref="char:EOLhyphen"/>bate in the Commons Houſe, which held till night, and divers Speeches were made upon them, all of them concurring in the juſt grounds and cauſes both Houſes have had for the making of the ſaid notes, and of their agreement with the Lawes of the Land: after which, they were put to the queſtion, and noted by the Commons that they ſhould be forthwith ſent to <hi>Yorke</hi> to his Majeſty.</p>
+            <div type="Parliamentary_order">
+               <opener>
+                  <date>Die Martis, 20. Maii 1642.</date>
+               </opener>
+               <p>
+                  <hi>It is this day Ordered by the Lords and Commons in Parliament aſſembled, That the Magazines of the ſeverall Counties in</hi> England <hi>and</hi> Wales, <hi>ſhall be forthwith put into the power of the Lord Lievtenants of the ſaid Counties, reſpectively, (being ſuch as the Parliament doth con<g ref="char:EOLhyphen"/>fide in for the ſervice and ſafetie of his Majeſty and the Kingdome.</hi>
+               </p>
+               <p>Ordered by the Lords in Parliament, That this Order ſhall be printed and publiſhed.</p>
+               <closer>
+                  <signed>Joh. Brown, Cleric. Parl.</signed>
+               </closer>
+            </div>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
